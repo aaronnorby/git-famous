@@ -1,0 +1,21 @@
+{
+  "name": "git-famous",
+  "version": "0.0.0",
+  "authors": [
+    "Hack Reactor Students <accounts@hackreactor.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies" : {
+    "backbone": "latest",
+    "jquery" : "latest",
+    "underscore" : "latest"
+  }, 
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
